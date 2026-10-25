@@ -1,0 +1,14 @@
+﻿version: 0.1.0
+files:
+  - url: grase-launcher_0.1.0_x64_en-US.msi
+    sha512: W+IJQRU6l2DyjIjkyj/I14w/ssHbS2gH5NkzCDth1x45Qd56tZfVJZLaPkAJpLbztFPEtniCkHlnbvVqzV5vKw==
+    size: 5443584
+path: grase-launcher_0.1.0_x64_en-US.msi
+sha512: W+IJQRU6l2DyjIjkyj/I14w/ssHbS2gH5NkzCDth1x45Qd56tZfVJZLaPkAJpLbztFPEtniCkHlnbvVqzV5vKw==
+releaseDate: '2026-10-25T11:57:36.2900954Z'
+releaseNotes: |
+  - Grase Launcher v0.1.0 Ilk Kararli Surum
+  - Dahili Sistem Tepsisi (System Tray) destegi
+  - Fabric ve Vanilla otomatik profil yonetimi
+  - Modrinth mod, modpaketi, shader ve kaynak paketi magazasi
+  - Uzaktan otomatik guncelleme (Auto-Updater) entegrasyonu
