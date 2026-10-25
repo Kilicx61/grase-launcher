@@ -1,13 +1,13 @@
-version: 0.1.0
+version: 0.1.1
 files:
-  - url: grase-launcher_0.1.0_x64_en-US.msi
-    sha512: vs9HmtChER5gAXvaxYkufWY/rvZ18qn+CZi7YHvz+nippKtYgnTRSQUyf+lrFNF63+/+Jz2u54M4Qy73EEaYWQ==
+  - url: grase-launcher_0.1.1_x64_en-US.msi
+    sha512: VSDfJb5WUD6NFgDRPZ70EuSBWZwKskVvZ9PTHrQaVQrMbmm0Deu1YP0kBk4qWFZbCClHaCET+iJf+MF3xrKKjA==
     size: 5451776
-path: grase-launcher_0.1.0_x64_en-US.msi
-sha512: vs9HmtChER5gAXvaxYkufWY/rvZ18qn+CZi7YHvz+nippKtYgnTRSQUyf+lrFNF63+/+Jz2u54M4Qy73EEaYWQ==
-releaseDate: '2026-10-25T13:35:00.000Z'
+path: grase-launcher_0.1.1_x64_en-US.msi
+sha512: VSDfJb5WUD6NFgDRPZ70EuSBWZwKskVvZ9PTHrQaVQrMbmm0Deu1YP0kBk4qWFZbCClHaCET+iJf+MF3xrKKjA==
+releaseDate: '2026-10-25T13:49:30.000Z'
 releaseNotes: |
-  - Grase Launcher v0.1.0 Kararli Surum (Performans ve Baslangic Optimizasyonu)
+  - Grase Launcher v0.1.1 Kararli Surum
   - 0ms Instant Local Cache Hydration ile aninda acilis ve sifir bekleme
   - Gelistirilmis Baslik Cubugu cift tiklama ve Ekran Boyutu senkronizasyonu
   - Dahili Sistem Tepsisi (System Tray) destegi
