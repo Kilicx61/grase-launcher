@@ -1,16 +1,16 @@
-version: 0.1.1
+version: 0.1.2
 files:
-  - url: grase-launcher_0.1.1_x64_en-US.msi
-    sha512: VSDfJb5WUD6NFgDRPZ70EuSBWZwKskVvZ9PTHrQaVQrMbmm0Deu1YP0kBk4qWFZbCClHaCET+iJf+MF3xrKKjA==
-    size: 5451776
-path: grase-launcher_0.1.1_x64_en-US.msi
-sha512: VSDfJb5WUD6NFgDRPZ70EuSBWZwKskVvZ9PTHrQaVQrMbmm0Deu1YP0kBk4qWFZbCClHaCET+iJf+MF3xrKKjA==
-releaseDate: '2026-10-25T13:49:30.000Z'
+  - url: grase-launcher_0.1.2_x64_en-US.msi
+    sha512: eRGsKNieuancQtOQmcJ5hUggTfEJXbPgeytUpaHFp4hNgDkF2yMd4YGRVy+p+K9hfa2qQoPGMpaYp/joGQpG0w==
+    size: 5455872
+path: grase-launcher_0.1.2_x64_en-US.msi
+sha512: eRGsKNieuancQtOQmcJ5hUggTfEJXbPgeytUpaHFp4hNgDkF2yMd4YGRVy+p+K9hfa2qQoPGMpaYp/joGQpG0w==
+releaseDate: '2026-10-25T16:06:00.000Z'
 releaseNotes: |
-  - Grase Launcher v0.1.1 Kararli Surum
+  - Grase Launcher v0.1.2 Kararli Surum
+  - Ayarlar ekranindaki Guncellemeleri Kontrol Et butonu ve anlik bildirimler duzeltildi
+  - Global Floating Toast bildirim sistemi tum pencerelerde ve sekmelerde gorunur kilindi
   - 0ms Instant Local Cache Hydration ile aninda acilis ve sifir bekleme
   - Gelistirilmis Baslik Cubugu cift tiklama ve Ekran Boyutu senkronizasyonu
   - Dahili Sistem Tepsisi (System Tray) destegi
-  - Fabric ve Vanilla otomatik profil yonetimi
-  - Modrinth mod, modpaketi, shader ve kaynak paketi magazasi
   - Uzaktan otomatik guncelleme (Auto-Updater) entegrasyonu
