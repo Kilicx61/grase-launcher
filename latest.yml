@@ -1,13 +1,15 @@
-﻿version: 0.1.0
+version: 0.1.0
 files:
   - url: grase-launcher_0.1.0_x64_en-US.msi
-    sha512: W+IJQRU6l2DyjIjkyj/I14w/ssHbS2gH5NkzCDth1x45Qd56tZfVJZLaPkAJpLbztFPEtniCkHlnbvVqzV5vKw==
-    size: 5443584
+    sha512: vs9HmtChER5gAXvaxYkufWY/rvZ18qn+CZi7YHvz+nippKtYgnTRSQUyf+lrFNF63+/+Jz2u54M4Qy73EEaYWQ==
+    size: 5451776
 path: grase-launcher_0.1.0_x64_en-US.msi
-sha512: W+IJQRU6l2DyjIjkyj/I14w/ssHbS2gH5NkzCDth1x45Qd56tZfVJZLaPkAJpLbztFPEtniCkHlnbvVqzV5vKw==
-releaseDate: '2026-10-25T11:57:36.2900954Z'
+sha512: vs9HmtChER5gAXvaxYkufWY/rvZ18qn+CZi7YHvz+nippKtYgnTRSQUyf+lrFNF63+/+Jz2u54M4Qy73EEaYWQ==
+releaseDate: '2026-10-25T13:35:00.000Z'
 releaseNotes: |
-  - Grase Launcher v0.1.0 Ilk Kararli Surum
+  - Grase Launcher v0.1.0 Kararli Surum (Performans ve Baslangic Optimizasyonu)
+  - 0ms Instant Local Cache Hydration ile aninda acilis ve sifir bekleme
+  - Gelistirilmis Baslik Cubugu cift tiklama ve Ekran Boyutu senkronizasyonu
   - Dahili Sistem Tepsisi (System Tray) destegi
   - Fabric ve Vanilla otomatik profil yonetimi
   - Modrinth mod, modpaketi, shader ve kaynak paketi magazasi
