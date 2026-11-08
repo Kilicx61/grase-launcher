@@ -1,16 +1,15 @@
-version: 0.1.2
+version: 0.1.3
 files:
-  - url: grase-launcher_0.1.2_x64_en-US.msi
-    sha512: eRGsKNieuancQtOQmcJ5hUggTfEJXbPgeytUpaHFp4hNgDkF2yMd4YGRVy+p+K9hfa2qQoPGMpaYp/joGQpG0w==
-    size: 5455872
-path: grase-launcher_0.1.2_x64_en-US.msi
-sha512: eRGsKNieuancQtOQmcJ5hUggTfEJXbPgeytUpaHFp4hNgDkF2yMd4YGRVy+p+K9hfa2qQoPGMpaYp/joGQpG0w==
-releaseDate: '2026-10-25T16:06:00.000Z'
+  - url: grase-launcher_0.1.3_x64_en-US.msi
+    sha512: 151gJw5BZUxTcana+N4GjzbHvEHATtoQ3Xz+Zp/0cGyjSptPHPdW4mctJxvsSDsyKtloqn/9FT9EcJ78umAfXg==
+    size: 5517312
+path: grase-launcher_0.1.3_x64_en-US.msi
+sha512: 151gJw5BZUxTcana+N4GjzbHvEHATtoQ3Xz+Zp/0cGyjSptPHPdW4mctJxvsSDsyKtloqn/9FT9EcJ78umAfXg==
+releaseDate: '2026-11-09T00:00:00.000Z'
 releaseNotes: |
-  - Grase Launcher v0.1.2 Kararli Surum
-  - Ayarlar ekranindaki Guncellemeleri Kontrol Et butonu ve anlik bildirimler duzeltildi
-  - Global Floating Toast bildirim sistemi tum pencerelerde ve sekmelerde gorunur kilindi
-  - 0ms Instant Local Cache Hydration ile aninda acilis ve sifir bekleme
-  - Gelistirilmis Baslik Cubugu cift tiklama ve Ekran Boyutu senkronizasyonu
-  - Dahili Sistem Tepsisi (System Tray) destegi
-  - Uzaktan otomatik guncelleme (Auto-Updater) entegrasyonu
+  - Grase Launcher v0.1.3 Kararli Surum
+  - HyperEngine Win32 Native Performans & Optimizasyon Motoru
+  - Intel Raptor Lake / Hibrit P-Core Kilidi ve Windows 11 EcoQoS (Power Throttling) Iptali
+  - LWJGL & OpenGL Zero-Copy Direct Memory (2GB Buffer) ve RAM String Deduplication
+  - Ormanlik & Agaclik Alanlar icin Akilli MoreCulling ve SolidLeaves optimizasyonlari
+  - Yenilenmis minimalist ve modern ayarlar arayuzu
